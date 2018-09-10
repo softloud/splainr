@@ -1,0 +1,9 @@
+Package: splainr
+Title: Considering giving her unsolicited feedback?
+Version: 0.0.0.9000
+Authors@R: person("Charles", "Gray", email = "charlestigray@gmail.com", role = c("aut", "cre"))
+Description: Splains splaining to the splainers.
+Depends: R (>= 3.4.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
